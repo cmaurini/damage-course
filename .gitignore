@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.DS_Store
+*/.DS_Store
+
+*/.vtu
+*.pvd
+*.h5
+*.xdmf
+*.xml
