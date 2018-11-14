@@ -1,6 +1,15 @@
-# Content 
+# Gradient damage models as phase-field models of brittle fracture
 
-This repository contains supporting material for the course Damage and Fracture at Sorbonne Université.
+We give here exemples of the numerical solution of the quasi-static evolution problem for gradient damage models, and show how they can be used to solve brittle fracture problems.
+
+The codes depend on FEniCS 2018.1.0. To run it we suggest to follow one of the following solutions:
+ - Use Google colab Notebooks
+ - Use Docker containers provided by FEniCS developers, see here: https://fenicsproject.org/download/
+
+You can find further informations about this model here:
+- Marigo, J.-J., Maurini, C., & Pham, K. (2016). An overview of the modelling of fracture by gradient damage models. Meccanica, 1–22. https://doi.org/10.1007/s11012-016-0538
+
+# Content
 
 - `notebook/VarFrac.ipynb`: A basic commented example for the finite element implementation of the phase-field models of fracture using FEniCS.
 
