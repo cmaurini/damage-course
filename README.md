@@ -11,13 +11,13 @@ You can find further informations about this model here:
 
 # Content
 
-- `notebook/VarFrac.ipynb`: A basic commented example for the finite element implementation of the phase-field models of fracture using FEniCS.
+- `notebook/VarFrac.ipynb`: A basic commented example for the finite element implementation of the phase-field models of fracture using FEniCS. Open and play with the notebook in google colab: https://colab.research.google.com/github/cmaurini/damage-course/blob/master/notebook/VarFrac.ipynb
 
-- `notebook/VI.ipynb`: A simple example on how to solve a Variational Inequality in FEniCS
+- `notebook/VI.ipynb`: A simple example on how to solve a Variational Inequality in FEniCS. Open and play with the notebook in google colab: https://colab.research.google.com/github/cmaurini/damage-course/blob/master/notebook/VI.ipynb
 
-- `notebook/Inclusion.ipynb`: The numerical solution of a nontrivial fracture problem using the phase-field approach
+- `notebook/Inclusion.ipynb`: The numerical solution of a nontrivial fracture problem using the phase-field approach. Open and play with the notebook in google colab: https://colab.research.google.com/github/cmaurini/damage-course/blob/master/notebook/Inclusion.ipynb
 
-- `notebook/VI-notes.ipynb`: Some notes on variational inequalities
+- `notebook/VI-notes.ipynb`: Some notes on variational inequalities. Open and play with the notebook in google colab: https://colab.research.google.com/github/cmaurini/damage-course/blob/master/notebook/VI-notes.ipynb
 
 The code is currently based on the use of FEniCS 2018.1 and python3
 
